@@ -1,0 +1,12 @@
+Problemas a resolver:
+
+1. poder usar el font de ArialMt y no el helvetica
+2. como puedo insertar el texto de otra forma distinta a las cordenadas¿?
+
+Pasos:
+
+1. tener todos los js de los 8 documentos, que cxada uno sea capaz de entregar el pdf final
+Check 2. tener un html que tenga el formulario para obtener las variables del cliente
+Check 2.1 obtener los datos en variables, al hacer submit
+3. enviar los datos en variables a los diferentes js
+4. subir a la web la app 
